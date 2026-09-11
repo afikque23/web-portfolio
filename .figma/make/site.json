@@ -1,0 +1,11 @@
+{
+  "title": "Arya Yusufa Agnil Fikri — Portfolio",
+  "description": "Create a personalized portfolio website to showcase skills, projects, and experiences, empowering professionals to enhance their online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
